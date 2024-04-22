@@ -1,3 +1,3 @@
 # Apna-college-demo
-this is my first Git repository
+This is my first Git repository.
 Author - Aryan
